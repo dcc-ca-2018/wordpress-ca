@@ -6,7 +6,7 @@ post_excerpt: ""
 layout: page
 permalink: http://gotbuffs.com/sample-page/
 published: true
-post_date: 2018-07-06 13:36:22
+post_date: 2018-08-06 11:02:15
 ---
 This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 
